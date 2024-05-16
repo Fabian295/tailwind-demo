@@ -10,7 +10,7 @@
   ],
   "dictionaries": ["custom-dictionary"],
   "words": ["@tailwind, tailwind", "Devs", "-webkit-appearance"],
-  "ignoreWords": ["@tailwind", "transform", "focusring", "-webkit-appearance"],
+  "ignoreWords": ["@tailwind", "transform", "focusring", "-webkit-appearance", "-webkit-"],
   "import": [],
   "language": "en,nl,en-US,lorem"
 }
